@@ -1,0 +1,16 @@
+D:\Azure\TEST\bin\Debug\net5.0\TEST.exe
+D:\Azure\TEST\bin\Debug\net5.0\TEST.deps.json
+D:\Azure\TEST\bin\Debug\net5.0\TEST.runtimeconfig.json
+D:\Azure\TEST\bin\Debug\net5.0\TEST.runtimeconfig.dev.json
+D:\Azure\TEST\bin\Debug\net5.0\TEST.dll
+D:\Azure\TEST\bin\Debug\net5.0\ref\TEST.dll
+D:\Azure\TEST\bin\Debug\net5.0\TEST.pdb
+D:\Azure\TEST\obj\Debug\net5.0\TEST.csproj.AssemblyReference.cache
+D:\Azure\TEST\obj\Debug\net5.0\TEST.GeneratedMSBuildEditorConfig.editorconfig
+D:\Azure\TEST\obj\Debug\net5.0\TEST.AssemblyInfoInputs.cache
+D:\Azure\TEST\obj\Debug\net5.0\TEST.AssemblyInfo.cs
+D:\Azure\TEST\obj\Debug\net5.0\TEST.csproj.CoreCompileInputs.cache
+D:\Azure\TEST\obj\Debug\net5.0\TEST.dll
+D:\Azure\TEST\obj\Debug\net5.0\ref\TEST.dll
+D:\Azure\TEST\obj\Debug\net5.0\TEST.pdb
+D:\Azure\TEST\obj\Debug\net5.0\TEST.genruntimeconfig.cache
